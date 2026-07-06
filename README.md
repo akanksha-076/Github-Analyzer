@@ -2,7 +2,7 @@
 
 A sleek, responsive React dashboard that taps into the GitHub REST API to fetch developer profile metrics, map program language trends dynamically, and recommend engineering paths based on activity.
 
-Live Demo: [Insert Your Netlify Link Here]
+Live Demo: https://github-project-analyzer.netlify.app/
 
 ---
 
