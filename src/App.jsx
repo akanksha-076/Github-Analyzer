@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import SearchBar from './components/SearchBar';
-import ProfileSummary from './components/ProfileSummary';
-import LanguageChart from './components/LanguageChart';
-import Suggestions from './components/Suggestions';
+import SearchBar from './Components/SearchBar';
+import ProfileSummary from './Components/ProfileSummary';
+import LanguageChart from './Components/LanguageChart';
+import Suggestions from './Components/Suggestions';
 
 // PASTE YOUR GITHUB PERSONAL ACCESS TOKEN INSIDE THE QUOTES
 const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN || ""; 
